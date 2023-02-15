@@ -1,0 +1,15 @@
+total 18
+drwxr-xr-x 1 ELSAFA 197121   0 Feb 15 11:03 .
+drwxr-xr-x 1 ELSAFA 197121   0 Feb 14 03:33 ..
+-rwxr-xr-x 1 ELSAFA 197121  34 Feb 15 10:42 0-hello_world
+-rwxr-xr-x 1 ELSAFA 197121  30 Feb 15 10:42 1-confused_smiley
+-rwxr-xr-x 1 ELSAFA 197121  30 Feb 15 10:42 2-hellofile
+-rwxr-xr-x 1 ELSAFA 197121  41 Feb 15 10:42 3-twofiles
+-rwxr-xr-x 1 ELSAFA 197121  37 Feb 15 10:42 4-lastlines
+-rwxr-xr-x 1 ELSAFA 197121  31 Feb 15 10:42 5-firstlines
+-rwxr-xr-x 1 ELSAFA 197121  44 Feb 15 10:42 6-third_line
+-rwxr-xr-x 1 ELSAFA 197121 121 Feb 15 10:53 7-file
+-rwxr-xr-x 1 ELSAFA 197121  36 Feb 15 11:02 8-cwd_state
+-rw-r--r-- 1 ELSAFA 197121   9 Feb 14 04:02 README.md
+-rw-r--r-- 1 ELSAFA 197121   0 Feb 15 10:53 echo
+-rw-r--r-- 1 ELSAFA 197121   0 Feb 15 11:03 ls_cwd_content
